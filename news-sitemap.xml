@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/journaal/3014253_ai-vergiftigt-geheugen-odido-soap-groeit-en-lockbit-5-0</loc>
+    <loc>https://www.ccinfo.nl/journaal/3025262_ai-kraakt-600-firewalls-beurzen-dalen-en-odido-escaleert</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-02-18</news:publication_date>
-      <news:title>AI vergiftigt geheugen, Odido soap groeit en LockBit 5.0</news:title>
+      <news:publication_date>2026-02-23</news:publication_date>
+      <news:title>AI kraakt 600 firewalls, beurzen dalen en Odido escaleert</news:title>
     </news:news>
   </url>
 
