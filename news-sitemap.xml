@@ -3,14 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/journaal/3025262_ai-kraakt-600-firewalls-beurzen-dalen-en-odido-escaleert</loc>
+    <loc>https://www.ccinfo.nl/journaal/3033802_odido-data-op-straat-ai-hackt-overheden-en-chinese-spionage</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-02-23</news:publication_date>
-      <news:title>AI kraakt 600 firewalls, beurzen dalen en Odido escaleert</news:title>
+      <news:publication_date>2026-02-27</news:publication_date>
+      <news:title>Odido data op straat, AI hackt overheden en Chinese spionage</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3031872_goudsmid-in-naarden-voor-tonnen-opgelicht</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-26</news:publication_date>
+      <news:title>Goudsmid in Naarden voor tonnen opgelicht</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.ccinfo.nl/bibliotheek/datalek-gegevensdiefstal/3031247_shinyhunters-publiceert-gestolen-odido-data-dit-is-jullie-schuld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-26</news:publication_date>
+      <news:title>ShinyHunters publiceert gestolen Odido data: &quot;Dit is jullie schuld&quot;</news:title>
     </news:news>
   </url>
 
