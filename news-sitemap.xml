@@ -3,26 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/bibliotheek/datalek-gegevensdiefstal/3042351_dataverrijking-waarom-het-odido-lek-gevaarlijker-is-dan-je-denkt</loc>
+    <loc>https://www.ccinfo.nl/journaal/3044264_ai-bot-hackt-github-nederland-grijpt-in-en-cyberoorlog-iran</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-03-03</news:publication_date>
-      <news:title>Dataverrijking: waarom het Odido lek gevaarlijker is dan je denkt</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.ccinfo.nl/journaal/3039921_odido-finale-6-1-miljoen-op-straat-overheid-kwetsbaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cybercrimeinfo</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-02</news:publication_date>
-      <news:title>Odido finale: 6,1 miljoen op straat, overheid kwetsbaar</news:title>
+      <news:publication_date>2026-03-04</news:publication_date>
+      <news:title>AI bot hackt GitHub, Nederland grijpt in en cyberoorlog Iran</news:title>
     </news:news>
   </url>
 
