@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/journaal/3044264_ai-bot-hackt-github-nederland-grijpt-in-en-cyberoorlog-iran</loc>
+    <loc>https://www.ccinfo.nl/journaal/3062743_supply-chain-onder-vuur-wipers-treffen-multinationals</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-03-04</news:publication_date>
-      <news:title>AI bot hackt GitHub, Nederland grijpt in en cyberoorlog Iran</news:title>
+      <news:publication_date>2026-03-13</news:publication_date>
+      <news:title>Supply chain onder vuur, wipers treffen multinationals</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3059991_game-over-politie-toont-100-fraudeverdachten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-12</news:publication_date>
+      <news:title>Game Over: politie toont 100 fraudeverdachten</news:title>
     </news:news>
   </url>
 
