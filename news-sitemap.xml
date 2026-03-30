@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.ccinfo.nl/journaal/3093996_teampcp-vergiftigt-alles-telegram-zero-day-en-fbi-gehackt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30</news:publication_date>
+      <news:title>TeamPCP vergiftigt alles, Telegram zero-day en FBI gehackt</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3092029_verkoper-verliest-12-000-euro-na-marktplaats-hack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29</news:publication_date>
+      <news:title>Verkoper verliest 12.000 euro na Marktplaats hack</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.ccinfo.nl/journaal/3089910_ajax-gehackt-politie-doelwit-en-iphone-exploits-op-straat</loc>
     <news:news>
       <news:publication>
