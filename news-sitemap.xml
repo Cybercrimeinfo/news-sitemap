@@ -3,26 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/journaal/3098563_drie-nl-datalekken-noord-korea-hackt-axios-en-ai-vindt-kwetsbaarheden</loc>
+    <loc>https://www.ccinfo.nl/journaal/3150984_cpanel-44-000-installaties-gecompromitteerd-shinyhunters-lekt-aman-resorts-en-raptor-supplies-wemeldinge-op-darkweb</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-04-01</news:publication_date>
-      <news:title>Drie NL datalekken, Noord-Korea hackt Axios en AI vindt kwetsbaarheden</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.ccinfo.nl/journaal/3093996_teampcp-vergiftigt-alles-telegram-zero-day-en-fbi-gehackt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cybercrimeinfo</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30</news:publication_date>
-      <news:title>TeamPCP vergiftigt alles, Telegram zero-day en FBI gehackt</news:title>
+      <news:publication_date>2026-05-04</news:publication_date>
+      <news:title>cPanel 44.000 installaties gecompromitteerd, ShinyHunters lekt Aman Resorts en Raptor Supplies Wemeldinge op darkweb</news:title>
     </news:news>
   </url>
 
