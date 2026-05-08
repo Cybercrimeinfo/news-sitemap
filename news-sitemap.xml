@@ -3,14 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/journaal/3150984_cpanel-44-000-installaties-gecompromitteerd-shinyhunters-lekt-aman-resorts-en-raptor-supplies-wemeldinge-op-darkweb</loc>
+    <loc>https://www.ccinfo.nl/journaal/3158365_shinyhunters-canvas-12-mei-7-nl-universiteiten-animo-iban</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-05-04</news:publication_date>
-      <news:title>cPanel 44.000 installaties gecompromitteerd, ShinyHunters lekt Aman Resorts en Raptor Supplies Wemeldinge op darkweb</news:title>
+      <news:publication_date>2026-05-08</news:publication_date>
+      <news:title>ShinyHunters Canvas 12 mei, 7 NL universiteiten, Animo IBAN</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3157141_gezocht-pinners-na-bankhelpdeskfraude-in-klundert-en-breda</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-07</news:publication_date>
+      <news:title>Gezocht: pinners na bankhelpdeskfraude in Klundert en Breda</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.ccinfo.nl/journaal/3154887_canvas-44-nl-instellingen-gelekt-edge-wachtwoorden-onveilig</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-06</news:publication_date>
+      <news:title>Canvas 44 NL instellingen gelekt, Edge wachtwoorden onveilig</news:title>
     </news:news>
   </url>
 
