@@ -3,26 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/alle-blogs-tekst/3294939_cybercrimeinfo-voor-artikelen-digiweerbaar-voor-aan-de-slag</loc>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3301438_verdachte-gezocht-na-phishing-bij-man-uit-arnhem</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-07-26</news:publication_date>
-      <news:title>Cybercrimeinfo voor artikelen, Digiweerbaar voor aan de slag</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.ccinfo.nl/journaal/3293349_ai-wordt-wapen-en-doelwit-172-nl-ransomwareslachtoffers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cybercrimeinfo</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24</news:publication_date>
-      <news:title>AI wordt wapen en doelwit, 172 NL ransomwareslachtoffers</news:title>
+      <news:publication_date>2026-07-30</news:publication_date>
+      <news:title>Verdachte gezocht na phishing bij man uit Arnhem</news:title>
     </news:news>
   </url>
 
