@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3301438_verdachte-gezocht-na-phishing-bij-man-uit-arnhem</loc>
+    <loc>https://www.ccinfo.nl/bibliotheek/datalek-gegevensdiefstal/3331000_het-datalek-bij-het-gastenverblijf-van-het-umc-utrecht-begon-bij-de-leverancier</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-07-30</news:publication_date>
-      <news:title>Verdachte gezocht na phishing bij man uit Arnhem</news:title>
+      <news:publication_date>2026-08-19</news:publication_date>
+      <news:title>Het datalek bij het gastenverblijf van het UMC Utrecht begon bij de leverancier</news:title>
     </news:news>
   </url>
 
