@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/darkweb/3400428_een-verkoper-zes-belgische-ledenbestanden-in-de-etalage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08</news:publication_date>
+      <news:title>Eén verkoper, zes Belgische ledenbestanden in de etalage</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3399333_drie-verdachten-gezocht-na-bankhelpdeskfraude-in-hilversum</loc>
     <news:news>
       <news:publication>
