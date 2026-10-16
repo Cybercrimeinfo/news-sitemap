@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3408643_verdachte-gezocht-na-phishingmail-over-creditcard-in-arnhem</loc>
+    <loc>https://www.ccinfo.nl/journaal/3413175_s03e12-incident-bij-albert-heijn-en-franse-koelingen</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-13</news:publication_date>
-      <news:title>Verdachte gezocht na phishingmail over creditcard in Arnhem</news:title>
+      <news:publication_date>2026-10-16</news:publication_date>
+      <news:title>S03E12: Incident bij Albert Heijn en Franse koelingen</news:title>
     </news:news>
   </url>
 
