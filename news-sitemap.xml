@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/journaal/3413175_s03e12-incident-bij-albert-heijn-en-franse-koelingen</loc>
+    <loc>https://www.ccinfo.nl/alle-blogs-tekst/3416265_het-cybernieuws-dat-je-hier-las-is-weer-beschikbaar</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-16</news:publication_date>
-      <news:title>S03E12: Incident bij Albert Heijn en Franse koelingen</news:title>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Het cybernieuws dat je hier las, is weer beschikbaar</news:title>
     </news:news>
   </url>
 
