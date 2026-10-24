@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/alle-blogs-tekst/3416265_het-cybernieuws-dat-je-hier-las-is-weer-beschikbaar</loc>
+    <loc>https://www.ccinfo.nl/journaal/3421711_s03e13-uit-voorzorg-offline-door-lek-in-php</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-19</news:publication_date>
-      <news:title>Het cybernieuws dat je hier las, is weer beschikbaar</news:title>
+      <news:publication_date>2026-10-23</news:publication_date>
+      <news:title>S03E13: Uit voorzorg offline door lek in PHP</news:title>
     </news:news>
   </url>
 
