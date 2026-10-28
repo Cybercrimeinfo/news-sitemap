@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/journaal/3421711_s03e13-uit-voorzorg-offline-door-lek-in-php</loc>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3427497_verdachte-gezocht-na-bankhelpdeskfraude-bij-man-uit-schagen</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-23</news:publication_date>
-      <news:title>S03E13: Uit voorzorg offline door lek in PHP</news:title>
+      <news:publication_date>2026-10-28</news:publication_date>
+      <news:title>Verdachte gezocht na bankhelpdeskfraude bij man uit Schagen</news:title>
     </news:news>
   </url>
 
