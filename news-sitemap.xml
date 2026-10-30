@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.ccinfo.nl/journaal/3430585_s03e14-inbraak-bij-esignflow-miljarden-weg-bij-binance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>S03E14: Inbraak bij eSignFlow, miljarden weg bij Binance</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3427497_verdachte-gezocht-na-bankhelpdeskfraude-bij-man-uit-schagen</loc>
     <news:news>
       <news:publication>
