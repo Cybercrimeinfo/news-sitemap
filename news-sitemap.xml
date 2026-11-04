@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3437267_verdachte-gezocht-na-pinpasfraude-met-koerier-in-almere</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Verdachte gezocht na pinpasfraude met koerier in Almere</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.ccinfo.nl/menu-nieuws-trends/darkweb/3434425_drugsgeld-en-een-misbruikforum-het-verhaal-van-virtualine</loc>
     <news:news>
       <news:publication>
