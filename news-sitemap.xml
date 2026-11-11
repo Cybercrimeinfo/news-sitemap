@@ -3,26 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/journaal/3439849_s03e15-koelingen-van-supermarkten-op-afstand-opgewarmd</loc>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3445623_verdachte-gezocht-na-oplichting-door-nepagent-in-roermond</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06</news:publication_date>
-      <news:title>S03E15: Koelingen van supermarkten op afstand opgewarmd</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3437267_verdachte-gezocht-na-pinpasfraude-met-koerier-in-almere</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cybercrimeinfo</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04</news:publication_date>
-      <news:title>Verdachte gezocht na pinpasfraude met koerier in Almere</news:title>
+      <news:publication_date>2026-11-11</news:publication_date>
+      <news:title>Verdachte gezocht na oplichting door nepagent in Roermond</news:title>
     </news:news>
   </url>
 
