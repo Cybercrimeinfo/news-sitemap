@@ -2,7 +2,7 @@
 
 Automatisch gegenereerde Google News Sitemap voor [ccinfo.nl](https://www.ccinfo.nl).
 
-**Laatste update:** 14-11-2026 12:42
+**Laatste update:** 16-11-2026 17:37
 
 ## URL
 

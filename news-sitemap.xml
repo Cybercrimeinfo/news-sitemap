@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.ccinfo.nl/bibliotheek/ai/nieuws-ai/3451603_van-maanden-naar-uren-wat-ai-verandert-aan-cyberdreigingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16</news:publication_date>
+      <news:title>Van maanden naar uren, wat AI verandert aan cyberdreigingen</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.ccinfo.nl/menu-nieuws-trends/darkweb/3448880_markt-dicht-jacht-open-354-darkwebaanhoudingen</loc>
     <news:news>
       <news:publication>
@@ -11,18 +23,6 @@
       </news:publication>
       <news:publication_date>2026-11-14</news:publication_date>
       <news:title>Markt dicht, jacht open, 354 darkwebaanhoudingen</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.ccinfo.nl/journaal/3448250_s03e16-iran-en-de-koelingen-datalek-bij-allunited</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cybercrimeinfo</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13</news:publication_date>
-      <news:title>S03E16: Iran en de koelingen, datalek bij AllUnited</news:title>
     </news:news>
   </url>
 
