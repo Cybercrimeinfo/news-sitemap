@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.ccinfo.nl/journaal/3458085_s03e17-aanvalscode-via-advertenties-en-optimizely</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20</news:publication_date>
+      <news:title>S03E17: Aanvalscode via advertenties en Optimizely</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3454931_verdachte-gezocht-na-phishing-per-sms-bij-man-uit-ijmuiden</loc>
     <news:news>
       <news:publication>
@@ -11,30 +23,6 @@
       </news:publication>
       <news:publication_date>2026-11-18</news:publication_date>
       <news:title>Verdachte gezocht na phishing per sms bij man uit IJmuiden</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/malware/3452952_oudere-iphones-aangevallen-via-advertenties-wat-doe-je-nu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cybercrimeinfo</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17</news:publication_date>
-      <news:title>Oudere iPhones aangevallen via advertenties, wat doe je nu</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.ccinfo.nl/bibliotheek/ai/nieuws-ai/3451603_van-maanden-naar-uren-wat-ai-verandert-aan-cyberdreigingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cybercrimeinfo</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Van maanden naar uren, wat AI verandert aan cyberdreigingen</news:title>
     </news:news>
   </url>
 
