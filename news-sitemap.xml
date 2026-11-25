@@ -3,26 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.ccinfo.nl/journaal/3458085_s03e17-aanvalscode-via-advertenties-en-optimizely</loc>
+    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3464485_verdachte-gezocht-na-oplichting-door-nepagent-in-beek</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20</news:publication_date>
-      <news:title>S03E17: Aanvalscode via advertenties en Optimizely</news:title>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>Verdachte gezocht na oplichting door nepagent in Beek</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3454931_verdachte-gezocht-na-phishing-per-sms-bij-man-uit-ijmuiden</loc>
+    <loc>https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/3463034_van-scherm-naar-schap-wanneer-een-cyberaanval-fysiek-wordt</loc>
     <news:news>
       <news:publication>
         <news:name>Cybercrimeinfo</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-11-18</news:publication_date>
-      <news:title>Verdachte gezocht na phishing per sms bij man uit IJmuiden</news:title>
+      <news:publication_date>2026-11-24</news:publication_date>
+      <news:title>Van scherm naar schap, wanneer een cyberaanval fysiek wordt</news:title>
     </news:news>
   </url>
 
