@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/malafide-websites/3466028_black-friday-zo-herken-je-een-nepwebshop-voor-je-betaalt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Black Friday, zo herken je een nepwebshop vóór je betaalt</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.ccinfo.nl/menu-nieuws-trends/opsporing/gezochte-personen-cybercrime/3464485_verdachte-gezocht-na-oplichting-door-nepagent-in-beek</loc>
     <news:news>
       <news:publication>
