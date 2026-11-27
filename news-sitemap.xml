@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.ccinfo.nl/journaal/3468035_s03e18-ai-agenten-bij-vlaamse-gemeenten-en-het-divd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cybercrimeinfo</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>S03E18: AI agenten bij Vlaamse gemeenten en het DIVD</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/malafide-websites/3466028_black-friday-zo-herken-je-een-nepwebshop-voor-je-betaalt</loc>
     <news:news>
       <news:publication>
@@ -23,18 +35,6 @@
       </news:publication>
       <news:publication_date>2026-11-25</news:publication_date>
       <news:title>Verdachte gezocht na oplichting door nepagent in Beek</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/3463034_van-scherm-naar-schap-wanneer-een-cyberaanval-fysiek-wordt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cybercrimeinfo</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24</news:publication_date>
-      <news:title>Van scherm naar schap, wanneer een cyberaanval fysiek wordt</news:title>
     </news:news>
   </url>
 
